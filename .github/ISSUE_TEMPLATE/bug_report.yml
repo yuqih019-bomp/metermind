@@ -1,0 +1,38 @@
+name: Bug report
+description: Report a reproducible MeterMind problem
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve MeterMind. Do not include private billing data, API keys, or credentials.
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and version
+      placeholder: Edge 140, Chrome 140, Safari 19...
+    validations:
+      required: true
+  - type: dropdown
+    id: input-format
+    attributes:
+      label: Input format
+      options:
+        - CSV
+        - JSON
+        - Sample data
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the visible error message and steps to reproduce it.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
