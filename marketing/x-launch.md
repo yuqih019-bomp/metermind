@@ -2,21 +2,22 @@
 
 ## Launch post
 
-GitHub billing tells you what was used.
+A sample GitHub export projects $483 this month. What do you fix first?
 
-It rarely tells you what to fix first.
+MeterMind turns Copilot + Actions billing data into a 2-minute cost brief: top driver, next action, and estimated savings.
 
-I built MeterMind to turn Copilot AI Credits + Actions usage into a private monthly cost brief in about 2 minutes:
+Runs locally. No account or API key.
 
-- forecast
-- top cost drivers
-- 3 prioritized savings actions
+For indie devs and small teams.
 
 ## First reply with link
 
-MeterMind runs locally in your browser. No account, API key, or recurring data connection.
+See the 2-minute workflow and sample report.
 
-$19 one time: https://get-metermind.yuqih019.chatgpt.site/
+MeterMind is $19 once — no subscription:
+https://get-metermind.yuqih019.chatgpt.site/
+
+What is the hardest GitHub cost question for you to answer today?
 
 ## Follow-up post: problem insight
 
